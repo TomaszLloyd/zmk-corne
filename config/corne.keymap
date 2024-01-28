@@ -33,8 +33,8 @@
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
    &kp ESC      &kp N1          &kp LA(F1)   &kp LA(F2)   &kp LA(F3)   &kp PAGE_UP      &kp N1    &kp N2    &kp N3       &kp N4     &kp N5   &kp PIPE
-   &kp LCTRL    &kp trans       &kp LA(F4)   &kp LA(F5)   &kp LA(F6)   &kp PAGE_DOWN    &kp N6    &kp N7    &kp N8       &kp N9     &kp N0   &kp TILDE
-   &kp LSHFT    &kp trans       &kp LA(F7)   &kp LA(F8)   &kp LA(F9)   &trans           &kp LPAR  &kp RPAR  &kp LBKT     &kp RBKT   &kp LBRC &kp RBRC
+   &kp LCTRL    &trans       &kp LA(F4)   &kp LA(F5)   &kp LA(F6)   &kp PAGE_DOWN    &kp N6    &kp N7    &kp N8       &kp N9     &kp N0   &kp TILDE
+   &kp LSHFT    &trans       &kp LA(F7)   &kp LA(F8)   &kp LA(F9)   &trans           &kp LPAR  &kp RPAR  &kp LBKT     &kp RBKT   &kp LBRC &kp RBRC
                                              &kp LGUI     &trans       &kp SPACE        &kp RET   &kp RALT  &kp BSPC
                         >;
                 };
